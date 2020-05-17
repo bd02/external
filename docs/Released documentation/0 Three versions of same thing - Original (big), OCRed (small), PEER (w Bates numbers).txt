@@ -1,0 +1,3 @@
+The three folders are three versions of the same thing - The original pdfs released under FOIA (one split in three to fit on Github), OCRed versions of the same, and the version of the same released to PEER which is lower resolution (because it was scanned into PACER) but which has Bates numbers.
+
+- ajj 2020/03/08
